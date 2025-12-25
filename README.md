@@ -15,7 +15,6 @@ Students will:
 - Apply full system hardening  
 - Validate that logs after hardening are significantly different  
 
-**Minor Project Reference:** Minor Project 2
 
 ---
 
